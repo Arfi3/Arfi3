@@ -2,9 +2,9 @@
 
 Perkenalkan nama saya **Arfi Nadhifa Hananti**.<br>
 
-Saya sedang menjalani program Bangkit Academy Batch 1 2024.<br>
+Saya sedang menjalani program Bangkit Academy 2024 Batch 1.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/arfinadhifahananti/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/arfinadhifahananti/) ya.
 
 <p align="left">
 <a href="https://github.com/Arfi3">
