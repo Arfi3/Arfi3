@@ -1,4 +1,4 @@
-# Hi there, I'm Arfi Nadhifa Hananti
+# Hi there, I'm Arfi Nadhifa Hananti 👋
 
 ## About me:
 - 🔭 I’m Machine Learning Cohort at Bangkit 2024
