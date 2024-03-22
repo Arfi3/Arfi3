@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Arfi Nadhifa Hananti**.<br>
+My name is **Arfi Nadhifa Hananti**.<br>
 
-Saya sedang menjalani program Bangkit Academy 2024 Batch 1.<br>
+I am Machine Learning Cohort at Bangkit 2024.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/arfinadhifahananti/) ya.
 
